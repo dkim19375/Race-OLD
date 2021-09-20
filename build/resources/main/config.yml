@@ -1,0 +1,17 @@
+world: 'world'
+commands:
+  start:
+    - 'give %player_name% diamond 2'
+  end:
+    1:
+      - 'give %player_name% diamond 4'
+      - 'sudo %player_name% warp spawn'
+    2:
+      - 'give %player_name% diamond 3'
+      - 'sudo %player_name% warp spawn'
+    3:
+      - 'give %player_name% diamond 2'
+      - 'sudo %player_name% warp spawn'
+    default:
+      - 'give %player_name% dirt 1'
+      - 'sudo %player_name% warp spawn'

@@ -1,0 +1,22 @@
+me/dkim19375/race/Racing.java
+ me.dkim19375.race.Racing
+me/dkim19375/race/util/Help.java
+ me.dkim19375.race.util.Help
+me/dkim19375/race/commands/TabCompleterClass.java
+ me.dkim19375.race.commands.TabCompleterClass
+me/dkim19375/race/util/LocationUtils.java
+ me.dkim19375.race.util.LocationUtils
+me/dkim19375/race/util/GameUtils.java
+ me.dkim19375.race.util.GameUtils
+me/dkim19375/race/placeholders/RaceExpansion.java
+ me.dkim19375.race.placeholders.RaceExpansion
+me/dkim19375/race/listeners/PlayerQuitListener.java
+ me.dkim19375.race.listeners.PlayerQuitListener
+me/dkim19375/race/listeners/PlayerMoveListener.java
+ me.dkim19375.race.listeners.PlayerMoveListener
+me/dkim19375/race/listeners/PlayerDeathListener.java
+ me.dkim19375.race.listeners.PlayerDeathListener
+me/dkim19375/race/commands/RaceCommand.java
+ me.dkim19375.race.commands.RaceCommand
+me/dkim19375/race/RacePlugin.java
+ me.dkim19375.race.RacePlugin
